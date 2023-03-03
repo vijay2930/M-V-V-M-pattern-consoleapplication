@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "userName": "vijay",
+      "email": "Vijay@gmail.com",
+      "password": "Vijay@30",
+      "folders": [
+        {
+          "name": "Test",
+          "dateOfCreation": "2023/02/23 12:44:31",
+          "modifiedDate": "2023/02/23 12:44:31",
+          "notes": [
+            {
+              "title": "Vijay",
+              "content": [
+                "This is a Dummy text ",
+                "For Testing Purpose"
+              ],
+              "dateOfCreation": "2023/02/23 12:45:30",
+              "modifiedDate": "2023/02/23 12:45:30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
